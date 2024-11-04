@@ -37,7 +37,7 @@ const works = [
       imgSrc: '/images/project-7.png',
       title: 'Metaverse',
       tags: ['Landing Page', 'Figma', 'UI/UX'],
-      projectLink: 'https://metaverse-tcj.netlify.app'
+      projectLink: 'https://vrworld-web-main.netlify.app'
     },
     {
       imgSrc: '/images/project-5.png',
