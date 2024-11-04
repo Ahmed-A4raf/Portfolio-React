@@ -16,7 +16,7 @@ const aboutItems = [
 
 const About = () => {
   return (
-    <section id="about" className="section">
+    <section id="about" data-section="about" className="section">
         <div className="container">
 
             <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">

@@ -34,6 +34,12 @@ const works = [
       projectLink: 'https://positivus-marketing-agency-react.netlify.app'
     },
     {
+      imgSrc: '/images/project-7.png',
+      title: 'Metaverse',
+      tags: ['Landing Page', 'Figma', 'UI/UX'],
+      projectLink: 'https://metaverse-tcj.netlify.app'
+    },
+    {
       imgSrc: '/images/project-5.png',
       title: 'Movie Land',
       tags: ['Live API'],
@@ -49,7 +55,7 @@ const works = [
 
 const Work = () => {
   return (
-    <section className="section" id="work">
+    <section className="section" id="work" data-section="work">
         <div className="container">
             <h2 className="headline-2 mb-8 reveal-up">My portfolio highlights</h2>
 

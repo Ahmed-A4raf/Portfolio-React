@@ -81,7 +81,7 @@ const Review = () => {
     })
   });
 
-  return <section className="section overflow-hidden" id="reviews">
+  return <section className="section overflow-hidden" id="reviews" data-section="reviews">
     <div className="container">
         <h2 className="headline-2 mb-8 reveal-up">What our customers say</h2>
 
