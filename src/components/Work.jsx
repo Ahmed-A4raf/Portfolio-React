@@ -13,13 +13,19 @@ const works = [
       imgSrc: '/images/project-1.png',
       title: 'Mern stack Shop Cart',
       tags: ['eCommerce', 'Sass', 'Firebase'],
-      projectLink: 'https://thunderous-marzipan-1aa8c2.netlify.app'
+      projectLink: 'https://e-commerce-shopcart-iti.netlify.app'
     },
     {
       imgSrc: '/images/project-2.png',
       title: 'Admin Dashboard',
       tags: ['Charts', 'DataVisualize'],
       projectLink: 'https://admin-dashboard-vitereact.netlify.app'
+    },
+    {
+      imgSrc: '/images/project-8.png',
+      title: 'Mindleap',
+      tags: ['Landing Page', 'Animation'],
+      projectLink: 'https://mindleap-react.netlify.app'
     },
     {
       imgSrc: '/images/project-3.png',
