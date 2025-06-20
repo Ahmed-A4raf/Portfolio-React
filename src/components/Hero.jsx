@@ -36,7 +36,7 @@ const Hero = () => {
           ">Building Scalable Modern Websites for the Future</h2>
 
           <div className="flex items-center gap-3">
-            <ButtonPrimary href="/MyCV.pdf" label="Download CV" icon="download" isDownload={true} />
+            <ButtonPrimary href="/CV React Js.pdf" label="Download CV" icon="download" isDownload={true} />
 
             <ButtonOutline href="#about" label="Scroll Down" icon="arrow_downward" />
           </div>
